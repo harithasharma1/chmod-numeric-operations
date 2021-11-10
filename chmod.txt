@@ -1,0 +1,28 @@
+chmod numeric operations 
+
+
+
+number         represents             status
+
+o          no permission               ---
+
+
+1          execute permission           --x
+ 
+
+2          write permission             -w-
+
+
+3          execute and write            -wx
+
+
+4           read permission              r-- 
+
+
+5           read,execute                 r-x
+
+
+6           read,write                   rw-
+
+
+7         read,write,execute             rwx 

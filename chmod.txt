@@ -2,7 +2,7 @@ chmod numeric operations
 
 
 
-number         represents             status
+number         represents             status 
 
 o          no permission               ---
 

@@ -25,4 +25,4 @@ o          no permission               ---
 6           read,write                   rw-
 
 
-7         read,write,execute             rwx 
+7         read,write,execute             rwx
